@@ -1,0 +1,37 @@
+steelers:
+  0:
+    tweet: "DooDoo S**t-Poopster"
+    media: "images/jujuFumble.jpeg"
+  1:
+    tweet: "Never forget"
+    media: "images/ryan_finley_smiling.jpeg"
+  3:
+    tweet: "Most overhyped team in the NFL. 6-11 incoming"
+    media: ""
+wolverine football: # wanted to use 'michigan football', but kept getting results for Michigan State football
+  0:
+    tweet: "AND HE HAS TROUBLE WITH THE SNAP"
+    media: "images/trouble_with_snap.jpeg"
+  1:
+    tweet: "Haven't beat a top 20 opponent on the road since 2006. Yikes."
+    media: ""
+  2:
+    tweet: "Beat Ohio State once in the last 10 years, then talk."
+    media: ""
+  3:
+    tweet: "Can't wait for the annual collapse come October"
+    media: ""
+  4:
+    tweet: "*Hasn't won a B1G championship since 2004 yet claims to be a football school*"
+    media: ""
+brooklyn nets:
+  0:
+    tweet: "This team isn't gonna take the regular season seriously all over again and then play the victim card when they're dinged up in the playoffs when everyone's hurt because they're bodies aren't ready for playoff intensity basketball."
+michael jordan goat:
+  0:
+    tweet: "MJ was a career 28% 3pt shooter in seasons without the shortened line. And people think his game would hold up just as well modern day. He'd be Jimmy Butler."
+    media: "images/crying_jordan.png"
+  1:
+    tweet: "Most overrated player in sports history. Played in a historically weak era, and couldn't win until guys like Magic and Bird were washed up."
+    media: ""
+
