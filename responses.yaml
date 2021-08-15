@@ -34,4 +34,22 @@ michael jordan goat:
   1:
     tweet: "Most overrated player in sports history. Played in a historically weak era, and couldn't win until guys like Magic and Bird were washed up."
     media: ""
+  2:
+    tweet: "Any summer league team of today would be a dynasty back when Jordan played"
+    media: ""
+  3:
+    tweet: "Overrated. 1-9 record in playoff games without Pippin. And people say LeBron is the one who needs help."
+    media: ""
 
+golden state warriors:
+  0:
+    tweet: "BLOCKED BY JAMES"
+    media: "images/blocked_by_james.jpg"
+
+lebron james:
+  0:
+    tweet: "GOAT. From the mouth of Scottie Pippen himself: 'Michael Jordan is the greatest scorer ever, but LeBron is the greatest player of all time'"
+    media: ""
+  1:
+    tweet: "Only player ever to average a triple double in the finals. GOAT."
+    media: "images/lebron_dunk.jpeg"
