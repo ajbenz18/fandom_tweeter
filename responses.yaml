@@ -1,3 +1,30 @@
+golden state warriors:
+  0:
+    tweet: "BLOCKED BY JAMES"
+    media: "images/blocked_by_james.jpg"
+    
+cleveland browns:
+  0:
+    tweet: "You have a sex offender playing quarterback"
+    media: ""
+  1:
+    tweet: "Shoulda kept Baker"
+    media: ""
+
+boston celtics:
+  0:
+    tweet: "Death, taxes, and Jayson Tatum crying to refs every time he misses a shot."
+    media: ""
+
+baltimore ravens:
+  0:
+    tweet: "Y'all should honestly just start Tyler Huntley over that dude LaFumble Jackson"
+    media: ""
+
+  1:
+    tweet: "This is who y'all got Lamar throwing to"
+    media: "ravens_receivers.jpeg"
+
 steelers:
   0:
     tweet: "DooDoo S**t-Poopster"
@@ -6,27 +33,26 @@ steelers:
     tweet: "Never forget"
     media: "images/ryan_finley_smiling.jpeg"
   3:
-    tweet: "Most overhyped team in the NFL. 6-11 incoming"
+    tweet: "Mitch Trubisky is your quarterback."
     media: ""
 wolverine football: # wanted to use 'michigan football', but kept getting results for Michigan State football
   0:
-    tweet: "AND HE HAS TROUBLE WITH THE SNAP"
-    media: "images/trouble_with_snap.jpeg"
+    tweet: "0-9 on the road against top 15 opponents under Harbaugh. Yikes."
+    media: ""
   1:
-    tweet: "Haven't beat a top 20 opponent on the road since 2006. Yikes."
-    media: ""
+    tweet: "Throwback to when this guy stomped all over y'all for 200 yards and 5 touchdowns"
+    media: "images/kenneth_walker.jpeg"
   2:
-    tweet: "Beat Ohio State once in the last 10 years, then talk."
-    media: ""
-  3:
     tweet: "Can't wait for the annual collapse come October"
     media: ""
-  4:
-    tweet: "*Hasn't won a B1G championship since 2004 yet claims to be a football school*"
-    media: ""
+
+  3:
+    tweet: "AND HE HAS TROUBLE WITH THE SNAP"
+    media: "images/trouble_with_snap.jpeg"
+
 brooklyn nets:
   0:
-    tweet: "This team isn't gonna take the regular season seriously all over again and then play the victim card when they're dinged up in the playoffs when everyone's hurt because they're bodies aren't ready for playoff intensity basketball."
+    tweet: "This team isn't gonna take the regular season seriously all over again and then play the victim card when they're dinged up in the playoffs when everyone's hurt because they're bodies aren't ready for playoff-intensity basketball."
 michael jordan goat:
   0:
     tweet: "MJ was a career 28% 3pt shooter in seasons without the shortened line. And people think his game would hold up just as well modern day. He'd be Jimmy Butler."
@@ -41,11 +67,6 @@ michael jordan goat:
     tweet: "Overrated. 1-9 record in playoff games without Pippin. And people say LeBron is the one who needs help."
     media: ""
 
-golden state warriors:
-  0:
-    tweet: "BLOCKED BY JAMES"
-    media: "images/blocked_by_james.jpg"
-
 lebron james:
   0:
     tweet: "GOAT. From the mouth of Scottie Pippen himself: 'Michael Jordan is the greatest scorer ever, but LeBron is the greatest player of all time'"
@@ -53,3 +74,18 @@ lebron james:
   1:
     tweet: "Only player ever to average a triple double in the finals. GOAT."
     media: "images/lebron_dunk.jpeg"
+
+Justin Herbert:
+  0:
+    tweet: "I hate to break it to y'all chargers fans, but just because dude can throw the ball hard doesn't mean hes a top 5 QB"
+    media: ""
+  1:
+    tweet: "Most overhyped team in the league. 8-9 season incoming."
+
+PSG:
+  0:
+    tweet: "Y'all coulda solved world hunger with the bag you gave Mbappe"
+    media: ""
+
+
+
